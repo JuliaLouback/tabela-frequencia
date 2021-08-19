@@ -8,7 +8,7 @@ Projeto desenvolvido para o 2º semestre do curso de Engenharia de Software, par
 
 
 
- ### ⚙Funcionalidades
+ ## ⚙ Funcionalidades
 
 - [ ] Inserindo os valores (qualquer quantidade) e clicando em enviar as seguintes informação são exibidas:
 
@@ -24,7 +24,7 @@ Projeto desenvolvido para o 2º semestre do curso de Engenharia de Software, par
 
   
 
-### 🛠Tecnologias 
+## 🛠 Tecnologias 
 
 - HTML
 
@@ -34,13 +34,13 @@ Projeto desenvolvido para o 2º semestre do curso de Engenharia de Software, par
 
   
 
-### 👩‍💻Autor
+## 👩‍💻 Autor
 
-- [[Julia Louback Ribeiro]](https://github.com/JuliaLouback) 
+- [Julia Louback Ribeiro](https://github.com/JuliaLouback)
 
 
 
-### 📝Licença
+## 📝 Licença
 
 Este projeto esta sobe a licença [MIT](https://github.com/JuliaLouback/TabelaFrequencia/LICENSE).
 
