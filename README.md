@@ -1,4 +1,4 @@
-# <img src="img\icon.png" alt="icon" style="zoom:33%;" />  Tabela de Distribuição de Frequências 
+# <img src="img\icon.png" alt="icon" style="zoom:12%;" />  Tabela de Distribuição de Frequências 
 
 
 
