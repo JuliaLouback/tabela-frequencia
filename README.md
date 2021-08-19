@@ -1,16 +1,16 @@
-# <img src="D:\Portfolio\TabelaFrequencia\img\icon.png" alt="icon" style="zoom:33%;" />  Tabela de Distribuição de Frequências 
+# <img src="img\icon.png" alt="icon" style="zoom:33%;" />  Tabela de Distribuição de Frequências 
 
 
 
-## Aplicação para apresentar Tabela de Distribuição de Frequências 
+Aplicação para apresentar Tabela de Distribuição de Frequências 
 
-## Projeto desenvolvido para o 2º semestre do curso de Engenharia de Software, para a disciplina de Estatística 
+Projeto desenvolvido para o 2º semestre do curso de Engenharia de Software, para a disciplina de Estatística 
 
 
 
- ### Funcionalidades
+ ### ⚙Funcionalidades
 
-Inserindo os valores (qualquer quantidade) e clicando em enviar as seguintes informação são exibidas:
+- [ ] Inserindo os valores (qualquer quantidade) e clicando em enviar as seguintes informação são exibidas:
 
 - Classes (intervalos utilizando o critério de Sturges)
 
@@ -24,7 +24,7 @@ Inserindo os valores (qualquer quantidade) e clicando em enviar as seguintes inf
 
   
 
-### Tecnologias 
+### 🛠Tecnologias 
 
 - HTML
 
@@ -34,11 +34,13 @@ Inserindo os valores (qualquer quantidade) e clicando em enviar as seguintes inf
 
   
 
-### Autor
+### 👩‍💻Autor
 
 - [[Julia Louback Ribeiro]](https://github.com/JuliaLouback) 
 
-### Licença
+
+
+### 📝Licença
 
 Este projeto esta sobe a licença [MIT](https://github.com/JuliaLouback/TabelaFrequencia/LICENSE).
 
