@@ -42,5 +42,5 @@ Projeto desenvolvido para o 2º semestre do curso de Engenharia de Software, par
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](https://github.com/JuliaLouback/TabelaFrequencia/LICENSE).
+Este projeto esta sobe a licença [MIT](https://github.com/JuliaLouback/TabelaFrequencia/blob/master/LICENSE).
 
