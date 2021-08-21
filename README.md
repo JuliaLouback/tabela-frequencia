@@ -4,7 +4,7 @@
 
 Aplicação para apresentar Tabela de Distribuição de Frequências 
 
-Projeto desenvolvido para o 2º semestre do curso de Engenharia de Software, para a disciplina de Estatística 
+Projeto desenvolvido no 2º semestre do curso de Engenharia de Software, para a disciplina de Estatística 
 
 
 
